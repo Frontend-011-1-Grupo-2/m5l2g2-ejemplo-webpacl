@@ -1,0 +1,1 @@
+(()=>{"use strict";(()=>{for(let o=1;o<=3;o++)setTimeout(()=>{console.log(`Pedido ${o} ha sido procesado`)},500)})(),console.log(4),console.log(8),console.log(16),console.log((console.error("No se puede dividir por 0"),"Error: No se puede dividir por 0"))})();
